@@ -1,0 +1,12 @@
+# bibliotecas necessarias
+
+fastapi
+uvicorn
+llama-index
+PyPDF2
+chromadb
+transformers
+huggingface_hub
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+llama-index-llms-groq
